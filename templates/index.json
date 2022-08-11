@@ -1,0 +1,592 @@
+{
+  "sections": {
+    "16357021760efbe511": {
+      "type": "slideshow",
+      "blocks": {
+        "16357021760efbe511-0": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1800x800.png",
+            "image_mb": "shopify:\/\/shop_images\/540x475.png",
+            "pos_img": "center center",
+            "cl_img": "rgba(0,0,0,0)",
+            "link_img1": "",
+            "open_link": "_blank",
+            "caption_w": "1",
+            "cap_v_pos": 50,
+            "cap_h_pos": 0,
+            "txt_align": "tl_md",
+            "cap_v_pos_mb": 50,
+            "cap_h_pos_mb": 39,
+            "txt_align_mb": "tl",
+            "cl_overlay": "#000000",
+            "cl_opacity": 0,
+            "ani_img": "none",
+            "ani_txt": "none",
+            "bg_content_bl": false,
+            "bg_content_cl": "#ffffff",
+            "bg_content_op": 50,
+            "content_pd": "40px 80px",
+            "content_pd_mb": "10px 20px",
+            "border_bl": false,
+            "br_color": "#222222",
+            "br_style": "solid",
+            "br_pd": 20,
+            "br_pd_mb": 10
+          }
+        },
+        "16357021760efbe511-5": {
+          "type": "txt",
+          "disabled": true,
+          "settings": {
+            "font": "f_body",
+            "title": "SUMMER SALE",
+            "color": "#222222",
+            "fw_text": 500,
+            "fs_text": 18,
+            "lh_text": 0,
+            "ls_text": 0,
+            "fs_mb_text": 12,
+            "lh_mb_text": 0,
+            "ls_mb_text": 0,
+            "hide": false,
+            "sp": 5,
+            "sp_mb": 5
+          }
+        },
+        "16357021760efbe511-1": {
+          "type": "txt",
+          "disabled": true,
+          "settings": {
+            "font": "f_heading",
+            "title": "Save up to 70%",
+            "color": "#222222",
+            "fw_text": 600,
+            "fs_text": 55,
+            "lh_text": 0,
+            "ls_text": 0,
+            "fs_mb_text": 20,
+            "lh_mb_text": 0,
+            "ls_mb_text": 0,
+            "hide": false,
+            "sp": 10,
+            "sp_mb": 10
+          }
+        },
+        "16357021760efbe511-4": {
+          "type": "btn",
+          "disabled": true,
+          "settings": {
+            "title": "Explore Now",
+            "btn_link": "shopify:\/\/collections\/trending",
+            "title2": "Shop Now",
+            "btn_link2": "",
+            "btn_w": false,
+            "btn_icon": false,
+            "cl_txt": "#ffffff",
+            "cl_bg": "#222222",
+            "cl_bd": "#222222",
+            "fs_text": 14,
+            "fw_text": 600,
+            "h": 40,
+            "ls_text": 0,
+            "bdr": 0,
+            "pd": 15,
+            "fs_mb_text": 14,
+            "h_mb": 40,
+            "ls_mb_text": 0,
+            "bdr_mb": 0,
+            "pd_mb": 15,
+            "sp": 0,
+            "sp_mb": 0
+          }
+        }
+      },
+      "block_order": [
+        "16357021760efbe511-0",
+        "16357021760efbe511-5",
+        "16357021760efbe511-1",
+        "16357021760efbe511-4"
+      ],
+      "settings": {
+        "se_height": "cus_h",
+        "use_custom_h": "1",
+        "h_des": "700px",
+        "h_tb": "500px",
+        "h_mb": "250px",
+        "effect": "1",
+        "loop": true,
+        "autoplay": true,
+        "au_time": 8,
+        "au_hover": true,
+        "button": false,
+        "btn_vi": "2",
+        "btn_owl": "1",
+        "btn_color": "0",
+        "dot": true,
+        "dot_owl": "2",
+        "dot_color": "1",
+        "layout": "nt_full",
+        "cl_bg": "#efefef",
+        "mg": "",
+        "pd": "",
+        "mg_mb": "",
+        "pd_mb": ""
+      }
+    },
+    "1658814543a4cd7f71": {
+      "type": "banner",
+      "blocks": {
+        "16588145431293256b-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1080x809.png",
+            "img_align": "center",
+            "url": "shopify:\/\/collections\/all-products",
+            "open_link": "_self",
+            "cat_design": "1",
+            "title": "",
+            "title_2": "",
+            "txt_align": "tc",
+            "banner_align": "fl_center"
+          }
+        },
+        "16588145431293256b-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1080x809.png",
+            "img_align": "center",
+            "url": "shopify:\/\/collections\/all-products",
+            "open_link": "_self",
+            "cat_design": "1",
+            "title": "",
+            "title_2": "",
+            "txt_align": "tc",
+            "banner_align": "fl_center"
+          }
+        }
+      },
+      "block_order": [
+        "16588145431293256b-0",
+        "16588145431293256b-1"
+      ],
+      "settings": {
+        "title": "",
+        "sub_title": "",
+        "sub_font": "2",
+        "style_title": "title_1",
+        "ic_tt": "gem",
+        "show_clpr": false,
+        "cat_space": "10",
+        "image_ratio": "auto",
+        "col": "6",
+        "col_md": "6",
+        "col_mb": "12",
+        "hoverz": true,
+        "use_shadow": false,
+        "cl_txt": "#ffffff",
+        "cl_overlay": "#000000",
+        "cl_opacity": 0,
+        "layout": "nt_full",
+        "cl_bg": "",
+        "mg": "-20px,,,",
+        "pd": "",
+        "mg_mb": "",
+        "pd_mb": ""
+      }
+    },
+    "16588147018c512836": {
+      "type": "slideshow",
+      "blocks": {
+        "1658814701c04de496-0": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1800x400.png",
+            "pos_img": "center center",
+            "cl_img": "",
+            "link_img1": "",
+            "open_link": "_blank",
+            "caption_w": "2",
+            "cap_v_pos": 50,
+            "cap_h_pos": 39,
+            "txt_align": "tl_md",
+            "cap_v_pos_mb": 50,
+            "cap_h_pos_mb": 39,
+            "txt_align_mb": "tl",
+            "cl_overlay": "#000000",
+            "cl_opacity": 0,
+            "ani_img": "none",
+            "ani_txt": "none",
+            "bg_content_bl": false,
+            "bg_content_cl": "#ffffff",
+            "bg_content_op": 50,
+            "content_pd": "40px 80px",
+            "content_pd_mb": "10px 20px",
+            "border_bl": false,
+            "br_color": "#222222",
+            "br_style": "solid",
+            "br_pd": 20,
+            "br_pd_mb": 10
+          }
+        }
+      },
+      "block_order": [
+        "1658814701c04de496-0"
+      ],
+      "settings": {
+        "se_height": "adapt",
+        "use_custom_h": "1",
+        "h_des": "600px",
+        "h_tb": "500px",
+        "h_mb": "350px",
+        "effect": "1",
+        "loop": true,
+        "autoplay": false,
+        "au_time": 6,
+        "au_hover": true,
+        "button": false,
+        "btn_vi": "1",
+        "btn_owl": "1",
+        "btn_color": "0",
+        "dot": true,
+        "dot_owl": "1",
+        "dot_color": "1",
+        "layout": "nt_full",
+        "cl_bg": "",
+        "mg": "",
+        "pd": "",
+        "mg_mb": "",
+        "pd_mb": ""
+      }
+    },
+    "165881397559f91f59": {
+      "type": "collection-list_manual",
+      "blocks": {
+        "16588139759c94ba4c-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "adidas",
+            "image": "shopify:\/\/shop_images\/540x1024.png",
+            "img_align": "center",
+            "title": "hide_title",
+            "url": "",
+            "col": "3",
+            "col_md": "3",
+            "col_mb": "6"
+          }
+        },
+        "16588139759c94ba4c-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "nike",
+            "image": "shopify:\/\/shop_images\/540x1024.png",
+            "img_align": "center",
+            "title": "hide_title",
+            "url": "",
+            "col": "3",
+            "col_md": "3",
+            "col_mb": "6"
+          }
+        },
+        "16588139759c94ba4c-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "converse",
+            "image": "shopify:\/\/shop_images\/540x1024.png",
+            "img_align": "center",
+            "title": "hide_title",
+            "url": "",
+            "col": "3",
+            "col_md": "3",
+            "col_mb": "6"
+          }
+        },
+        "16588139759c94ba4c-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "vans",
+            "image": "shopify:\/\/shop_images\/540x1024.png",
+            "img_align": "center",
+            "title": "hide_title",
+            "url": "",
+            "col": "3",
+            "col_md": "3",
+            "col_mb": "6"
+          }
+        }
+      },
+      "block_order": [
+        "16588139759c94ba4c-0",
+        "16588139759c94ba4c-1",
+        "16588139759c94ba4c-2",
+        "16588139759c94ba4c-3"
+      ],
+      "settings": {
+        "title": "",
+        "sub_title": "",
+        "sub_font": "2",
+        "style_title": "title_1",
+        "ic_tt": "gem",
+        "show_clpr": false,
+        "cat_layout": "1",
+        "hoverz": false,
+        "cat_design": "1",
+        "cat_space": "0",
+        "pr_txt": "products",
+        "loop": true,
+        "autoplay": false,
+        "au_time": 6,
+        "au_hover": true,
+        "button": false,
+        "btn_vi": "1",
+        "btn_owl": "1",
+        "btn_color": "0",
+        "dot": true,
+        "dot_owl": "1",
+        "dot_color": "1",
+        "cp_code": false,
+        "layout": "nt_full",
+        "cl_bg": "",
+        "hide_bgimg": false,
+        "mg": "-20px,,50px,",
+        "pd": "",
+        "mg_mb": "",
+        "pd_mb": ""
+      }
+    },
+    "1658809373b3e01cfc": {
+      "type": "featured_collection",
+      "settings": {
+        "title": "TRENDING",
+        "sub_title": "Top view in this week",
+        "sub_font": "1",
+        "btn_title": "See all products",
+        "style_title": "title_2",
+        "ic_tt": "gem",
+        "show_clpr": false,
+        "collection": "all-products",
+        "limit": 8,
+        "space": 20,
+        "use_pagination": "more",
+        "use_bar_lm": false,
+        "btn_rd": true,
+        "btn_icon": false,
+        "btn_style": "default",
+        "col_pr": "3",
+        "col_pr_tb": "3",
+        "col_pr_mb": "6",
+        "pr_des": "1 tc",
+        "show_vendor": false,
+        "use_cdt": false,
+        "round_cd": false,
+        "cdt_des": "1",
+        "use_eq_height": true,
+        "image_ratio": "ratio_nt",
+        "image_size": "nt_contain",
+        "image_position": "8",
+        "cp_code": false,
+        "layout": "wrap",
+        "cl_bg": "",
+        "mg": "50px,,50px,",
+        "pd": "",
+        "mg_mb": "",
+        "pd_mb": ""
+      }
+    },
+    "16357041768f51742b": {
+      "type": "instagram_shop",
+      "blocks": {
+        "1581508120953-0": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/360x360.png",
+            "url": "shopify:\/\/products\/adidas-classic-backpack-legend-ink-multicolour"
+          }
+        },
+        "1581508249339": {
+          "type": "pin",
+          "settings": {
+            "pos_t": 39,
+            "pos_l": 39,
+            "cl_pin": "dark",
+            "product": "adidas-classic-backpack-legend-ink-multicolour"
+          }
+        },
+        "1581508120953-2": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/360x360.png",
+            "url": "shopify:\/\/products\/adidas-classic-backpack"
+          }
+        },
+        "1581508571978": {
+          "type": "pin",
+          "settings": {
+            "pos_t": 50,
+            "pos_l": 50,
+            "cl_pin": "dark",
+            "product": "adidas-classic-backpack"
+          }
+        },
+        "1581508120953-1": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/360x360.png",
+            "url": "shopify:\/\/products\/adidas-kids-stan-smith"
+          }
+        },
+        "1581508478366": {
+          "type": "pin",
+          "settings": {
+            "pos_t": 32,
+            "pos_l": 67,
+            "cl_pin": "dark",
+            "product": "adidas-kids-stan-smith"
+          }
+        },
+        "1581508120953-3": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/360x360.png",
+            "url": "shopify:\/\/products\/adidas-superstar-80s"
+          }
+        },
+        "1581508536038": {
+          "type": "pin",
+          "settings": {
+            "pos_t": 28,
+            "pos_l": 79,
+            "cl_pin": "dark",
+            "product": "adidas-superstar-80s"
+          }
+        },
+        "1581508120953-5": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/360x360.png",
+            "url": "shopify:\/\/products\/asics-tiger-gel-lyte-v-30-years-of-gel-pack"
+          }
+        },
+        "1581508621940": {
+          "type": "pin",
+          "settings": {
+            "pos_t": 66,
+            "pos_l": 48,
+            "cl_pin": "dark",
+            "product": "asics-tiger-gel-lyte-v-30-years-of-gel-pack"
+          }
+        },
+        "1581508120953-4": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/360x360.png",
+            "url": "shopify:\/\/products\/converse-chuck-taylor-all-star-ii-hi"
+          }
+        },
+        "1581508614765": {
+          "type": "pin",
+          "settings": {
+            "pos_t": 66,
+            "pos_l": 42,
+            "cl_pin": "dark",
+            "product": "converse-chuck-taylor-all-star-ii-hi"
+          }
+        },
+        "1581508222506": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/360x360.png",
+            "url": "shopify:\/\/products\/converse-chuck-taylor-all-star-lo"
+          }
+        },
+        "1581508561626": {
+          "type": "pin",
+          "settings": {
+            "pos_t": 50,
+            "pos_l": 50,
+            "cl_pin": "dark",
+            "product": "converse-chuck-taylor-all-star-lo"
+          }
+        },
+        "1581782278305": {
+          "type": "img",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/360x360.png",
+            "url": "shopify:\/\/products\/converse-toddler-chuck-taylor-all-star-axel-mid"
+          }
+        },
+        "1581789761991": {
+          "type": "pin",
+          "settings": {
+            "pos_t": 50,
+            "pos_l": 50,
+            "cl_pin": "dark",
+            "product": "converse-toddler-chuck-taylor-all-star-axel-mid"
+          }
+        }
+      },
+      "block_order": [
+        "1581508120953-0",
+        "1581508249339",
+        "1581508120953-2",
+        "1581508571978",
+        "1581508120953-1",
+        "1581508478366",
+        "1581508120953-3",
+        "1581508536038",
+        "1581508120953-5",
+        "1581508621940",
+        "1581508120953-4",
+        "1581508614765",
+        "1581508222506",
+        "1581508561626",
+        "1581782278305",
+        "1581789761991"
+      ],
+      "settings": {
+        "title": "@ FOLLOW US ON INSTAGRAM",
+        "sub_title": "",
+        "sub_font": "2",
+        "style_title": "title_2",
+        "ic_tt": "gem",
+        "show_clpr": false,
+        "layout_des": "2",
+        "open_link": "_blank",
+        "space": "0",
+        "rounded_ins": "0",
+        "col_pr": "2",
+        "col_pr_tb": "3",
+        "col_pr_mb": "6",
+        "loop": false,
+        "au_time": 0,
+        "au_hover": true,
+        "button": true,
+        "btn_vi": "1",
+        "btn_owl": "1",
+        "btn_color": "1",
+        "dot": false,
+        "dot_owl": "1",
+        "dot_color": "1",
+        "use_eq_height": true,
+        "image_ratio": "ratio1_1",
+        "image_size": "nt_cover",
+        "image_position": "8",
+        "cp_code": false,
+        "layout": "nt_full",
+        "cl_bg": "#ffffff",
+        "mg": "",
+        "pd": "",
+        "mg_mb": "",
+        "pd_mb": ""
+      }
+    }
+  },
+  "order": [
+    "16357021760efbe511",
+    "1658814543a4cd7f71",
+    "16588147018c512836",
+    "165881397559f91f59",
+    "1658809373b3e01cfc",
+    "16357041768f51742b"
+  ]
+}
